@@ -7,6 +7,7 @@
 
 ## [▶️Send us request to become a part of Cosmos Ecosystem Crew3!▶️](https://t.me/s_orion)
 ## [🌈Add Crew3 Emoji in from the Cosmos Ecosystem Emoji Pack!🌈](https://t.me/addemoji/CosmosEcosystem)
+## [🔁Share the tweet and help the program grow🔁!](https://twitter.com/CosmosEcosystem/status/1635985789963358210)
 
 ### What it brings to you as project:
 
