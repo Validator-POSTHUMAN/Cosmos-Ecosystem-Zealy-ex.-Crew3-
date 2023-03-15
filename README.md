@@ -6,6 +6,7 @@
 **Every project that brings value to the Cosmos Ecosystem could be listed here!**
 
 ## [▶️Send us request to become a part of Cosmos Ecosystem Crew3!▶️](https://t.me/s_orion)
+## [🌈Add Crew3 Emoji in from the Cosmos Ecosystem Emoji Pack!🌈](https://t.me/addemoji/CosmosEcosystem)
 
 ### What it brings to you as project:
 
@@ -16,9 +17,11 @@
 5. It's already created spot for everyone in Cosmos! You have to just submit some details and welcome to the Cosmos Ecosystem! 
 
 
-## List of 29 + projects participating: 
-![CECrew3](https://user-images.githubusercontent.com/92199696/223774296-3f306db2-9bb9-4999-acda-a04b71f051b0.png)<br/>
+## List of 31 + projects participating: 
+![CECrew3](https://user-images.githubusercontent.com/92199696/225305883-b800c59d-a9e5-4df2-bb60-174ea435aad9.png)<br/>
 - [Citizen Cosmos](https://www.citizencosmos.space/)
+- [Injective](https://injective.com/)
+- [Maincard](https://maincard.io/)
 - [ODIN Protocol](https://odinprotocol.io)
 - [Cosmos Chicken Coop](http://cosmoschickencoop.io/)
 - [Posthuman](https://posthuman.digital/)
@@ -52,5 +55,19 @@
 ![CECrew32](https://user-images.githubusercontent.com/92199696/223774766-342d9339-0023-49cd-9d3c-3f1fd785ce87.png)
 
 ## Comparison of programms engagement:
-*Both have Tweets count but it's not displayed due unknown reasons.* <br/>
-![CECrew33](https://user-images.githubusercontent.com/92199696/223775449-efb81122-c799-4e20-89f7-67ecfb4c977a.png)
+```Both have Tweets count but it's not displayed due unknown reasons.``` <br/>
+
+![CECrew33 (1)](https://user-images.githubusercontent.com/92199696/225305972-224025fd-1a96-45c2-8abd-84be894c97eb.png)
+
+## Methodology for the new projects based on the type of it
+```But here's nothing set in stone and every project is able to develop it's own unique tasks based on it's own experience and inner vision!```
+
+### 1. Wallets/Applications: <br/> 
+![CECrew32](https://user-images.githubusercontent.com/92199696/225306365-4a088c63-cc4c-494f-a11d-13323b5d3f8a.png) <br/>
+
+### 2. Validators: <br/>
+![CECrew32 (1)](https://user-images.githubusercontent.com/92199696/225306386-232ac709-b640-4f62-8a4b-225bee7e9b12.png) <br/>
+
+### 3. Games/Projects: <br/> 
+![CECrew32 (2)](https://user-images.githubusercontent.com/92199696/225306415-6e4da202-3143-4e9e-b9ae-74b3efd02686.png)
+
