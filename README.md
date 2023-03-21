@@ -18,39 +18,50 @@
 5. It's already created spot for everyone in Cosmos! You have to just submit some details and welcome to the Cosmos Ecosystem! 
 
 
-## List of 31 + projects participating: 
-![CECrew3](https://user-images.githubusercontent.com/92199696/225305883-b800c59d-a9e5-4df2-bb60-174ea435aad9.png)<br/>
-- [Citizen Cosmos](https://www.citizencosmos.space/)
+## List of 32 + projects participating: 
+![CECrew3 (1)](https://user-images.githubusercontent.com/92199696/226580847-a6464684-18ab-459e-b6e3-5e9fdf3cca5a.png)
+
+
+## Mainnets and testnets:
+
 - [Injective](https://injective.com/)
-- [Maincard](https://maincard.io/)
+- [Bitsong](https://bitsong.io/)
+- [Sei Network](https://www.seinetwork.io/)
 - [ODIN Protocol](https://odinprotocol.io)
-- [Cosmos Chicken Coop](http://cosmoschickencoop.io/)
+- [Asset Mantle](https://assetmantle.one/)
+- [Humans AI](https://humans.ai/)
+- [Lum Network](https://lum.network/) 
+- [Lava Network](https://lavanet.xyz/)
+- [Namada](https://namada.net/)
+- [Comdex](https://comdex.one)
+- [Persistence](https://persistence.one/)
+- [HoneyWood](https://honeywood.io/)
+- [Aura Network](https://aura.network/)
+
+## Validators
+
+- [Citizen Cosmos](https://www.citizencosmos.space/)
 - [Posthuman](https://posthuman.digital/)
 - [Nodejumper](https://nodejumper.io/)
 - [Bro_n_Bro](https://bronbro.io/)
-- [Sei Network](https://www.seinetwork.io/)
-- [Sputnik Network](https://sputnik.exchange/)
-- [Asset Mantle](https://assetmantle.one/)
-- [Ambassadors School](https://ambassadors.school)
-- [ChainTools](https://chaintools.tech/)
-- [Humans AI](https://humans.ai/)
-- [Lum Network](https://lum.network/) 
-- [Pulsar Finance](https://app.pulsar.finance/)
-- [Lava Network](https://lavanet.xyz/)
-- [Namaa](https://namada.net/)
-- [Comdex](https://comdex.one)
-- [WYND](https://app.wynddao.com/)
-- [TFM](https://tfm.com/juno/)
 - [Citadel.one](https://citadel.one/)
 - [NQ4](https://nq4.net/)
+
+## Tools, Wallets, Projects
+
+- [Maincard](https://maincard.io/)
+- [Cosmos Chicken Coop](http://cosmoschickencoop.io/)
 - [Leap Wallet](https://www.leapwallet.io/)
-- [Persistence](https://persistence.one/)
-- [HoneyWood](https://honeywood.io/)
 - [StakeEasy](https://www.stakeeasy.finance/)
 - [Metarchy](http://metarchy.space/)
 - [Cosmic Horizon](https://cosmic-horizon.com/)
 - [CAC OTC](https://cac-group.io)
-- [Aura Network](https://aura.network/)
+- [Sputnik Network](https://sputnik.exchange/)
+- [Ambassadors School](https://ambassadors.school)
+- [ChainTools](https://chaintools.tech/)
+- [Pulsar Finance](https://app.pulsar.finance/)
+- [WYND](https://app.wynddao.com/)
+- [TFM](https://tfm.com/juno/)
 
 ## Example of submissions ratio based on tasks complexity:
 ![CECrew32](https://user-images.githubusercontent.com/92199696/223774766-342d9339-0023-49cd-9d3c-3f1fd785ce87.png)
@@ -58,7 +69,8 @@
 ## Comparison of programms engagement:
 ```Both have Tweets count but it's not displayed due unknown reasons.``` <br/>
 
-![CECrew33 (1)](https://user-images.githubusercontent.com/92199696/225305972-224025fd-1a96-45c2-8abd-84be894c97eb.png)
+![CECrew33 (2)](https://user-images.githubusercontent.com/92199696/226580771-be3c2af4-fb85-4fd6-8813-40a86a2f2bf5.png)
+
 
 ## Methodology for the new projects based on the type of it
 ```But here's nothing set in stone and every project is able to develop it's own unique tasks based on it's own experience and inner vision!```
