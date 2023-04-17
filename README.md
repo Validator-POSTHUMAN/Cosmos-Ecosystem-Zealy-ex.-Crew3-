@@ -1,6 +1,6 @@
-![Crew³ (3)](![Zealy](https://user-images.githubusercontent.com/92199696/232420394-6d9ae46e-0993-4797-8ae1-6a5b8357a602.png)
+![Zealy](https://user-images.githubusercontent.com/92199696/232422775-6fa5d166-6695-4616-8ea7-26434f4aae32.png)
 
-# Cosmos Ecosystem Crew3
+# Cosmos Ecosystem Zealy (ex.Crew3)
 
 ## As Cosmos Ecosystem Enthusiasts we want to make everything that we could do to attract people to the Cosmos Ecosystem and related projects!
 **Every project that brings value to the Cosmos Ecosystem could be listed here!**
@@ -18,7 +18,7 @@
 5. It's already created spot for everyone in Cosmos! You have to just submit some details and welcome to the Cosmos Ecosystem! 
 
 
-## List of 35 + projects participating: 
+## List of 35+ projects participating: 
 ![CECrew3 (1)](https://user-images.githubusercontent.com/92199696/226580847-a6464684-18ab-459e-b6e3-5e9fdf3cca5a.png)
 
 
