@@ -1,4 +1,4 @@
-![Crew³ (3)](https://user-images.githubusercontent.com/92199696/223769295-5fd481fd-efa9-4480-9a74-675284ebd267.png)
+![Crew³ (3)](![Zealy](https://user-images.githubusercontent.com/92199696/232420394-6d9ae46e-0993-4797-8ae1-6a5b8357a602.png)
 
 # Cosmos Ecosystem Crew3
 
@@ -18,13 +18,15 @@
 5. It's already created spot for everyone in Cosmos! You have to just submit some details and welcome to the Cosmos Ecosystem! 
 
 
-## List of 32 + projects participating: 
+## List of 35 + projects participating: 
 ![CECrew3 (1)](https://user-images.githubusercontent.com/92199696/226580847-a6464684-18ab-459e-b6e3-5e9fdf3cca5a.png)
 
 
 ## Mainnets and testnets:
 
 - [Injective](https://injective.com/)
+- [Evmos](https://evmos.org/)
+- [Omniflix](https://omniflix.network/)
 - [Bitsong](https://bitsong.io/)
 - [Sei Network](https://www.seinetwork.io/)
 - [ODIN Protocol](https://odinprotocol.io)
@@ -46,6 +48,7 @@
 - [Bro_n_Bro](https://bronbro.io/)
 - [Citadel.one](https://citadel.one/)
 - [NQ4](https://nq4.net/)
+- [Cosmic Validator](https://twitter.com/CosmicValidator)
 
 ## Tools, Wallets, Projects
 
