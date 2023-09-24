@@ -87,3 +87,8 @@
 ### 3. Games/Projects: <br/> 
 ![CECrew32 (2)](https://user-images.githubusercontent.com/92199696/225306415-6e4da202-3143-4e9e-b9ae-74b3efd02686.png)
 
+
+## Latest update on Cosmos Ecosystem Zealy (ex.crew3)
+`Here some stats from this massive Cosmos onboading campaing for projects, applications, and validators` <br/>
+![Zealy 1](https://github.com/Validator-POSTHUMAN/Cosmos-Ecosystem-Zealy-ex.-Crew3-/assets/92199696/86dee7e5-1719-41fd-9715-cb24f2123ffd) <br/>
+![Zealy (2)](https://github.com/Validator-POSTHUMAN/Cosmos-Ecosystem-Zealy-ex.-Crew3-/assets/92199696/9737d107-69a5-49c8-b849-014e466f1904)
